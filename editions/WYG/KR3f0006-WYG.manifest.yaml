@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR3f0006/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0006/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七政推步
+  date: '2015-08-24 23:09:13.718757'
+  source:
+    repository: kanripo
+    path: KR3f0006
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0006_000-WYG.yaml, hash: 'sha256:74db9b0acd807fadc473432dec0d500eb73253ede2179c149eed7c105c3a5a56'}
+  - {seq: 1, filename: KR3f0006_001-WYG.yaml, hash: 'sha256:ad92e9d69b87e3b8e958418955b35d03aa114679a6123dfee4d27be1ab19b1c1'}
+  - {seq: 2, filename: KR3f0006_002-WYG.yaml, hash: 'sha256:dd023aa04020a73f38407c8111f9873a69b54c915c3bf1302d9b21b8a4343f1c'}
+  - {seq: 3, filename: KR3f0006_003-WYG.yaml, hash: 'sha256:6af6e8e9deee6d0e03be6962a016805032c9da0ebaf3f52e5697c1a17bb42def'}
+  - {seq: 4, filename: KR3f0006_004-WYG.yaml, hash: 'sha256:bb298af692ddfe10a0375141b626abfdbbea793208fa524ec911a19ef6661ada'}
+  - {seq: 5, filename: KR3f0006_005-WYG.yaml, hash: 'sha256:37d595901fc476b967dd496e7ebe5db47e7b29c972714e2fe0a357a942a14f14'}
+  - {seq: 6, filename: KR3f0006_006-WYG.yaml, hash: 'sha256:71a1795565a07561dbb3a3e1450eea6d890e069b29bc43a218990fbb57bba0e5'}
+  - {seq: 7, filename: KR3f0006_007-WYG.yaml, hash: 'sha256:e512ba152cbf274e8f66fd0ce2ac71d71cddead127fbc62ecd28a560449d086e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0006_000-WYG.markers.yaml, hash: 'sha256:9e510cd342836003cbd69a572d8459c9ad1fb74c812c0fb8c4e4f1827b576f37'}
+  - {seq: 1, role: markers, filename: assets/KR3f0006_001-WYG.markers.yaml, hash: 'sha256:51a94761d0a14eb92b141ad7be259faa8b007f34ee62a392ba9005dcaad0ed4c'}
+  - {seq: 2, role: markers, filename: assets/KR3f0006_002-WYG.markers.yaml, hash: 'sha256:f09d73dd3a990f25091af9dffab804a9364f11502d84c920cbbe889b830df0c7'}
+  - {seq: 3, role: markers, filename: assets/KR3f0006_003-WYG.markers.yaml, hash: 'sha256:a2795e0021418e76091ef0db1bc3da02680b48186385c02ad5ecd27da8fe1426'}
+  - {seq: 4, role: markers, filename: assets/KR3f0006_004-WYG.markers.yaml, hash: 'sha256:144d6722bcbc1195a8f12e556e0b80c639626565e2f7ec48f7ea455f5098b3bc'}
+  - {seq: 5, role: markers, filename: assets/KR3f0006_005-WYG.markers.yaml, hash: 'sha256:44a10f4ad8692e457ff83e549f2e4641b96a6132a0e7f891acf6f44986a31ac9'}
+  - {seq: 6, role: markers, filename: assets/KR3f0006_006-WYG.markers.yaml, hash: 'sha256:a8ef593540a0dcf2756e6528815a702f2e0e059f7ec1a0ea3d98690200014895'}
+  - {seq: 7, role: markers, filename: assets/KR3f0006_007-WYG.markers.yaml, hash: 'sha256:7d53c60efce85ee22bd054dab8b14887b5aa3e3aad12614e55ca3e511f82be5d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0006_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 565
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0006_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 12763
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0006_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 172
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0006_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 168
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3f0006_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 176
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3f0006_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 196
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3f0006_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 188
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3f0006_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 147
+  label: 卷七
+  type: section
+  level: 1
+hash: sha256:bffb67b67205430732a21c3ab1a925940bdb32e9620c9a6eb65d7f7fc51c2770

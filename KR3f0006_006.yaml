@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/krp/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_006-1a, image: WYG0786/WYG0786-0401c.png}
+body:
+  text: 七政推步卷六明貝琳編土星黃道南北緯度立成木星黃道南北緯度立成火星黃道南北緯度立成火星黃道南北緯度立成金星黃道南北緯度立成金星黃道南北緯度立成黃道北黃道南金星黃道南北緯度立成南黃道北南黃道北水星黃道南北緯度立成水星黃道南北緯度立成南黃道北南黃道水星黃道南北緯度立成北黃道南北黃道南太陰出入晨昏加減度立成五星伏見立成五星順留立成五星退留立成黃道南北各像內外星經緯度立成七政推步卷六
+  hash: sha256:57a0046301e5dd7ab9f3c8e60295cc93824a6c8e139b1b1bef5ec2d2d86f3686
+metadata:
+  title: 七政推步
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_006.txt
+hash: sha256:bfaa34708e730c00b96907dea5c8d9b1c6886ce5fcfa029098c32f5bda2fbcb2

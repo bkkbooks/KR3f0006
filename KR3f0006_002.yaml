@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_002-1a, image: WYG0786/WYG0786-0338a.png}
+body:
+  text: 七政推步卷二明貝琳編日五星中行總年立成日五星中行零年立成日五星中行月分立成日躔交十二宮初日立成日五星中行日分立成土星經度與天不合加一度三十分方合太陰經度總年立成太陰經度零年立成太陰經度月分立成太陰經度日躔交十二宮初日立成太陰經度日分立成太陽加減立成太陽加減立成太陽加減立成太陽加減立成太陰經度第一加減比敷立成太陰經度第一加減比敷立成七政推步卷二
+  hash: sha256:6cd03df3c9657182cdc04755d33c287a1cb3d9bc1a0f135f2e7045f13207b655
+metadata:
+  title: 七政推步
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷二
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_002.txt
+hash: sha256:eb746b6d90e006cc8590ba9d26f04bdf2baf4eb6f7e0a889fc40f46598aa062b

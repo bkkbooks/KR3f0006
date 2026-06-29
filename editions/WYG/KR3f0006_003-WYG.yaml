@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/WYG/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_003-1a, image: WYG0786/WYG0786-0352c.png}
+body:
+  text: 七政推步卷三明貝琳編太陰經度第一加減比敷立成太陰經度第一加減比敷立成太陰經度第二加減遠近立成太陰經度第二加減遠近立成太陰經度第二加減遠近立成太陰經度第二加減遠近立成土星第一加減比敷立成土星第一加減比敷立成土星第一加減比敷立成土星第一加減比敷立成土星第二加減遠近立成土星第二加減遠近立成土星第二加減遠近立成土星第二加減遠近立成七政推步卷三
+  hash: sha256:ef8299ee5b2c73a05a0177676419ffde01575404219861165b091b09115080a0
+metadata:
+  title: 七政推步
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷三
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_003.txt
+hash: sha256:6af6e8e9deee6d0e03be6962a016805032c9da0ebaf3f52e5697c1a17bb42def

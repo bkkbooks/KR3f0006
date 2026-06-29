@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/krp/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_005-1a, image: WYG0786/WYG0786-0383c.png}
+body:
+  text: 七政推步卷五明貝琳編金星第一加減比敷立成金星第一加減比敷立成金星第一加減比敷立成金星第一加減比敷立成金星第二加減遠近立成金星第二加減遠近立成金星第二加減遠近立成金星第二加減遠近立成水星第一加減比敷立成水星第一加減比敷立成水星第一加減比敷立成水星第一加減比敷立成水星第二加減遠近立成水星第二加減遠近立成水星第二加減遠近立成水星第二加減遠近立成太陰黃道南北緯度立成太陰黃道南北緯度立成七政推步卷五
+  hash: sha256:c554cb92905f7b805c09c1a3d08fb096913c4eb47a23fa07c27417026785af85
+metadata:
+  title: 七政推步
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷五
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_005.txt
+hash: sha256:383321d922be78292ede61bf11f4b9b4ca8dc944b1791f292925dea5b1e84942

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/WYG/v1/juan/7
+seq: 7
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_007-1a, image: WYG0786/WYG0786-0422c.png}
+body:
+  text: 七政推步卷七明貝琳編太陰凌犯時刻立成凌犯入宿圖推月與五星入宿法法曰置各宿初界宫度分其月入宿緯度并時刻並依太隂凌犯求緯度時刻法推之其五星入宿者視各宿初界宫度與五星午正經度相近者取之是也晝夜加減差立成推算交食用太陽太陰晝夜時行影徑分立成推算交食用經緯時加減差立成推算交食用西域晝夜時立成七政推步巻七
+  hash: sha256:20118ae859c8eff9bd0f991ea5a82c641a86dca366bd9a055ba0623e2b747871
+metadata:
+  title: 七政推步
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷七
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_007.txt
+hash: sha256:e512ba152cbf274e8f66fd0ce2ac71d71cddead127fbc62ecd28a560449d086e

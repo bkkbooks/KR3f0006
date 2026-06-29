@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0006/WYG/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_004-1a, image: WYG0786/WYG0786-0367a.png}
+body:
+  text: 七政推步卷四明貝琳編木星第一加減比敷立成木星第一加減比敷立成木星第一加減比敷立成木星第一加減比敷立成木星第二加減遠近立成木星第二加減遠近立成木星第二加減遠近立成木星第二加減遠近立成火星第一加減比敷立成火星第一加減比敷立成火星第一加減比敷立成火星第一加減比敷立成火星第二加減遠近立成火星第二加減遠近立成火星第二加減遠近立成火星第二加減遠近立成七政推歩卷四
+  hash: sha256:866a784a7399f8a8ccf6affd5d57b45ae5117f84663abae6ed9d584885b341bf
+metadata:
+  title: 七政推步
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:13.718757'
+  juan_title: 卷四
+  source:
+    repository: kanripo
+    path: KR3f0006/KR3f0006_004.txt
+hash: sha256:bb298af692ddfe10a0375141b626abfdbbea793208fa524ec911a19ef6661ada
