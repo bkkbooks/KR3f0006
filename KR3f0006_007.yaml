@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0006_WYG_007-1a, image: WYG0786/WYG0786-0422c.png}
 body:
-  text: 七政推步卷七明貝琳編太陰凌犯時刻立成凌犯入宿圖推月與五星入宿法法曰置各宿初界宫度分其月入宿緯度并時刻並依太隂凌犯求緯度時刻法推之其五星入宿者視各宿初界宫度與五星午正經度相近者取之是也晝夜加減差立成推算交食用太陽太陰晝夜時行影徑分立成推算交食用經緯時加減差立成推算交食用西域晝夜時立成七政推步卷七
-  hash: sha256:bb824a0d75d45c75361d076bf5cf7dd2d030415a7212bc70291d156a04a353a2
+  text: 七政推步卷七明貝琳編太陰凌犯時刻立成凌犯入宿圖推月與五星入宿法法曰置各宿初界宫度分其月入宿緯度并時刻並依太隂凌犯求緯度時刻法推之其五星入宿者視各宿初界宫度與五星午正經度相近者取之是也晝夜加減差立成推算交食用太陽太陰晝夜時行影徑分立成推算交食用經緯時加減差立成推算交食用西域晝夜時立成七政推步巻七
+  hash: sha256:20118ae859c8eff9bd0f991ea5a82c641a86dca366bd9a055ba0623e2b747871
 metadata:
   title: 七政推步
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0006/KR3f0006_007.txt
-hash: sha256:2f1029ab8303e6e65c9d2a9f3ece2a68c69813512c59742748cd15c9f29dc062
+hash: sha256:e6f9e112392befa98a04c4bf986435fc1a29a45c9711348c67e506c512cd727e
